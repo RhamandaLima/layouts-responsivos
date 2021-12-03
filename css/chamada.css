@@ -31,3 +31,9 @@
 .chamada__botao {
     width: 100%;
 }
+
+@media screen and (width: 768px) {
+    .chamada {
+        background-color: #f0f;
+    }
+}

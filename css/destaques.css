@@ -26,3 +26,9 @@
     box-shadow: 0 2px 10px 5px #00000020;
     margin-bottom: .5rem;
 }
+
+.destaques__painel-texto {
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: normal;
+}

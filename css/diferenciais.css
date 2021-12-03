@@ -42,3 +42,9 @@
 .item__texto {
     line-height: normal;
 }
+
+@media screen and (min-width: 1024px) {
+    .chamada__texto {
+        max-width: 600px;
+    }
+}

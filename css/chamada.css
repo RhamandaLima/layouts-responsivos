@@ -33,7 +33,7 @@
 }
 
 @media screen and (width: 768px) {
-    .chamada {
-        background-color: #f0f;
+    .chamada__texto {
+        max-width: 600px;
     }
 }

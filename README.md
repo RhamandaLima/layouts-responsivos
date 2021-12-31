@@ -29,7 +29,7 @@
 
 <hr>
 
-**Neste curso, as seguintes abordagens do JavaScript tiveram foco:**
+**Neste curso, as seguintes abordagens tiveram foco:**
 
 - Analise e desmembramento do layout recebido;
 - Uso do EMMET para criar blocos de código HTML;
@@ -46,7 +46,7 @@
 - A importância de escrever um código semântico;
 - Criação de estilizações diferentes para diversos dispositivos com media queries;
 - Adaptação da estrutura e conteúdo para diferentes layouts; e
-- Progredir de um layout mobile até um layout para desktop.
+- Progressão de um layout mobile até um layout para desktop.
 
 <hr>
 
@@ -61,9 +61,17 @@
 
 ## Resultados
 
+<p align="center">Página web:
 <div align="center">
 <img src="img/apeperia-responsiva.gif" width="600px"/>
 </div>
+</p>
+
+<p align="center">Página web responsiva:
+<div align="center">
+<img src="img/apeperia-responsiva-2.gif" width="600px"/>
+</div>
+</p>
 
 <hr>
 
